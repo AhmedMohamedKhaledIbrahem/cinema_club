@@ -1,3 +1,17 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        // Add Google services classpath
+        classpath 'com.google.gms:google-services:4.4.2' // Ensure this is the latest version
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.10" // Match your Kotlin version
+    }
+}
+
+
+
 allprojects {
     repositories {
         google()

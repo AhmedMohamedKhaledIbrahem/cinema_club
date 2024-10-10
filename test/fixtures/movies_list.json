@@ -1,0 +1,45 @@
+{
+    "results": [
+      {
+        "backdrop_path": "/NNC08YmJFFlLi1prBkK8quk3dp.jpg",
+        "id": 84773,
+        "name": "The Lord of the Rings: The Rings of Power",
+        "original_name": "The Lord of the Rings: The Rings of Power",
+        "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+        "poster_path": "/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+            10759,
+            10765,
+            18
+        ],
+        "vote_average": 7.333,
+        "vote_count": 2781,
+        "origin_country": [
+            "US"
+        ]
+      },
+      {
+        "backdrop_path": "/Asg2UUwipAdE87MxtJy7SQo08XI.jpg",
+        "id": 957452,
+        "title": "The Crow",
+        "original_title": "The Crow",
+        "overview": "Soulmates Eric and Shelly are brutally murdered when the demons of her dark past catch up with them. Given the chance to save his true love by sacrificing himself, Eric sets out to seek merciless revenge on their killers, traversing the worlds of the living and the dead to put the wrong things right.",
+        "poster_path": "/58QT4cPJ2u2TqWZkterDq9q4yxQ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+            28,
+            14,
+            27,
+            53
+        ],
+        "release_date": "2024-08-21",
+        "vote_average": 5.363,
+        "vote_count": 219
+      }
+    ],
+    "total_pages": 1
+  }
+  

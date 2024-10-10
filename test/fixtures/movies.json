@@ -1,0 +1,21 @@
+{
+    "backdrop_path": "backDropPath",
+    "id": 120,
+    "name": "name",
+    "original_name": "orginalName",
+    "overview": "overView",
+    "poster_path": "posterPath",
+    "media_type": "mediaType",
+    "adult": false,
+    "original_language": "orginalLanguage",
+    "genre_ids": [
+        13,
+        20
+    ],
+    "popularity": 2730.434,
+    "vote_average": 7.3,
+    "vote_count": 234,
+    "origin_country": [
+        "US"
+    ]
+}

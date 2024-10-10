@@ -1,0 +1,8 @@
+{
+    "id": "abc123",
+    "userName": "John Doe",
+    "email": "johndoe@example.com",
+    "phone": "1234567890",
+    "profilePhoto": "empty",
+    "emailVerified": false
+}

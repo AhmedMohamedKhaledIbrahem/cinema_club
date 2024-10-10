@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/cgKZtNSETjXJPkAQ4rasV7dnyQH.jpg",
+    "belongs_to_collection": {
+        "id": 1,
+        "name": "Beetlejuice Collection",
+        "poster_path": "/2N5c3ue4bxvTO5OO3bOjHPJZs3H.jpg",
+        "backdrop_path": "/bJ76WnTj7G8dYQSZJvZejna262D.jpg"
+    },
+    "budget": 100000000,
+    "genres": [
+        {
+            "id": 1,
+            "name": "name"
+        },
+        {
+            "id": 2,
+            "name": "name2"
+        },
+        {
+            "id": 3,
+            "name": "name3"
+        }
+    ],
+    "homepage": "https://www.beetlejuicemovie.com",
+    "id": 1,
+    "imdb_id": "tt2049403",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "orginalTitle",
+    "overview": "overView",
+    "popularity": 1024.494,
+    "poster_path": "posterPath",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 360,
+            "logo_path": "/hbDlIbBdBe0nVFTeZ7hDX3d5n2N.png",
+            "name": "Geffen Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 81,
+            "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+            "name": "Plan B Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 8601,
+            "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+            "name": "Tim Burton Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 216687,
+            "logo_path": null,
+            "name": "Domain Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 228708,
+            "logo_path": null,
+            "name": "Tommy Harper Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "relaeaseDate",
+    "revenue": 267268543,
+    "runtime": 105,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "tagLine",
+    "title": "title",
+    "video": false,
+    "vote_average": 1.0,
+    "vote_count": 2
+}

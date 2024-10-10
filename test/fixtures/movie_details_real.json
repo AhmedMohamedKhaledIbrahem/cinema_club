@@ -1,0 +1,106 @@
+{
+    "adult": false,
+    "backdrop_path": "/cgKZtNSETjXJPkAQ4rasV7dnyQH.jpg",
+    "belongs_to_collection": {
+        "id": 945475,
+        "name": "Beetlejuice Collection",
+        "poster_path": "/2N5c3ue4bxvTO5OO3bOjHPJZs3H.jpg",
+        "backdrop_path": "/bJ76WnTj7G8dYQSZJvZejna262D.jpg"
+    },
+    "budget": 100000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comedy"
+        },
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 14,
+            "name": "Fantasy"
+        }
+    ],
+    "homepage": "https://www.beetlejuicemovie.com",
+    "id": 917496,
+    "imdb_id": "tt2049403",
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_title": "Beetlejuice Beetlejuice",
+    "overview": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Beetlejuice, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+    "popularity": 1024.494,
+    "poster_path": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+    "production_companies": [
+        {
+            "id": 174,
+            "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 360,
+            "logo_path": "/hbDlIbBdBe0nVFTeZ7hDX3d5n2N.png",
+            "name": "Geffen Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 81,
+            "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+            "name": "Plan B Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 8601,
+            "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+            "name": "Tim Burton Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 216687,
+            "logo_path": null,
+            "name": "Domain Entertainment",
+            "origin_country": "US"
+        },
+        {
+            "id": 228708,
+            "logo_path": null,
+            "name": "Tommy Harper Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2024-09-04",
+    "revenue": 267268543,
+    "runtime": 105,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Italian",
+            "iso_639_1": "it",
+            "name": "Italiano"
+        },
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        }
+    ],
+    "status": "Released",
+    "tagline": "The ghost with the most is back.",
+    "title": "Beetlejuice Beetlejuice",
+    "video": false,
+    "vote_average": 7.125,
+    "vote_count": 596
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CinemaClub</string>
+    <string name="facebook_app_id">1016944413565181</string>
+    <string name="fb_login_protocol_scheme">fb1016944413565181</string>
+     <string name="facebook_client_token">0658bcf81f0305accd45aa58b52e856b</string>
+</resources>
