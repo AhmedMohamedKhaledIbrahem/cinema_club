@@ -29,10 +29,10 @@ void main() async {
   SystemChrome.setEnabledSystemUIMode(SystemUiMode.immersiveSticky);
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-      apiKey: "AIzaSyAPLhXfllMgY2fmb3q78iw7Q8aGXnmRjQE",
-      appId: "1:688450515610:android:ef28d30f04d7607c662523",
-      messagingSenderId: "688450515610",
-      projectId: "smartglass-b39ce",
+      apiKey: "you should write the apiKey from google-json",
+      appId: "you should write the apiId from google-json",
+      messagingSenderId: "you should write the messagingSenderId from google-json",
+      projectId: "you should write the projectId from google-json",
     ),
   );
   runApp(
